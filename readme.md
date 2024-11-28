@@ -1,5 +1,8 @@
 # Black Bears in California
+
 Of late we hear stories about how they have been sighted closer to urban areas. We were curious to see if information like weather conditions and the time of the year are some factors that influence the activity of the bears encroaching on the urban areas. If our hypothesis is correct, then this information could be used as an early warning tool to alert residents in urban areas of immediate bears sightings near them. Given input features such as daily temperature and precipitation, and time of the year, we aim to predict if bears will in the future re-appear in areas where they have been sighted historically.
+
+[Check out the dashboard on Tableau here.](https://public.tableau.com/views/bears_17301946004210/Dashboard4?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 #### Data Used:
 1. iNaturalist - Californian black bear sighting dataset
